@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3600 4800" width="30.48cm" height="40.64cm">
+  <title>Bản Lĩnh Là Chất Riêng (Sống chất không cần chất 2026)</title>
+  <desc>Tác giả: Đào Hữu Trọng (ĐH Cần Thơ) — Cuộc thi Thiết kế Tranh Cổ động Phòng, Chống Ma túy 2026</desc>
+  <defs>
+    <linearGradient id="bgDoPaper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="hsl(43, 65%, 95%)"/>
+      <stop offset="55%" stop-color="hsl(40, 56%, 91%)"/>
+      <stop offset="100%" stop-color="hsl(37, 50%, 86%)"/>
+    </linearGradient>
+    <radialGradient id="sunHalo" cx="50%" cy="45%" r="42%">
+      <stop offset="0%" stop-color="hsl(46, 100%, 66%)" stop-opacity="0.72"/>
+      <stop offset="60%" stop-color="hsl(28, 95%, 56%)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="hsl(40, 56%, 91%)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="peakEmerald" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="hsl(160, 88%, 28%)"/>
+      <stop offset="100%" stop-color="hsl(164, 86%, 16%)"/>
+    </linearGradient>
+    <linearGradient id="emeraldBanner" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(162, 86%, 19%)"/>
+      <stop offset="50%" stop-color="hsl(160, 84%, 24%)"/>
+      <stop offset="100%" stop-color="hsl(220, 68%, 20%)"/>
+    </linearGradient>
+    <pattern id="halftone02" width="32" height="32" patternUnits="userSpaceOnUse" patternTransform="rotate(-20)">
+      <circle cx="16" cy="16" r="3.8" fill="hsl(16, 85%, 42%)" fill-opacity="0.08"/>
+    </pattern>
+    <clipPath id="artWindow02">
+      <rect x="132" y="960" width="3336" height="2650" rx="20"/>
+    </clipPath>
+    <filter id="paperGrain02" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.62" numOctaves="3" seed="22"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.28   0 0 0 0 0.18   0 0 0 0 0.08  0 0 0 0.05 0"/>
+    </filter>
+  </defs>
+
+  <!-- 1. Warm Archival Dó-Paper Field & Halftone -->
+  <rect x="0" y="0" width="3600" height="4800" fill="url(#bgDoPaper)"/>
+  <rect x="0" y="0" width="3600" height="4800" fill="url(#sunHalo)"/>
+  <rect x="132" y="132" width="3336" height="4536" fill="url(#halftone02)"/>
+
+  <!-- 2. Central Vietnamese Heritage Lotus Mandala & Heroic Youth Illustration -->
+  <g clip-path="url(#artWindow02)">
+    <g fill="hsl(38, 96%, 52%)" fill-opacity="0.190">
+  <polygon points="1800,2180 4250,2180 4238,2420"/>
+  <polygon points="1800,2180 4202,2657 4144,2891"/>
+  <polygon points="1800,2180 4063,3117 3960,3334"/>
+  <polygon points="1800,2180 3837,3541 3693,3734"/>
+  <polygon points="1800,2180 3532,3912 3354,4073"/>
+  <polygon points="1800,2180 3161,4217 2954,4340"/>
+  <polygon points="1800,2180 2737,4443 2511,4524"/>
+  <polygon points="1800,2180 2277,4582 2040,4618"/>
+  <polygon points="1800,2180 1800,4630 1559,4618"/>
+  <polygon points="1800,2180 1322,4582 1088,4524"/>
+  <polygon points="1800,2180 862,4443 645,4340"/>
+  <polygon points="1800,2180 438,4217 245,4073"/>
+  <polygon points="1800,2180 67,3912 -93,3734"/>
+  <polygon points="1800,2180 -237,3541 -360,3334"/>
+  <polygon points="1800,2180 -463,3117 -544,2891"/>
+  <polygon points="1800,2180 -602,2657 -638,2420"/>
+  <polygon points="1800,2180 -650,2180 -638,1939"/>
+  <polygon points="1800,2180 -602,1702 -544,1468"/>
+  <polygon points="1800,2180 -463,1242 -360,1025"/>
+  <polygon points="1800,2180 -237,818 -93,625"/>
+  <polygon points="1800,2180 67,447 245,286"/>
+  <polygon points="1800,2180 438,142 645,19"/>
+  <polygon points="1800,2180 862,-83 1088,-164"/>
+  <polygon points="1800,2180 1322,-222 1559,-258"/>
+  <polygon points="1800,2180 1799,-270 2040,-258"/>
+  <polygon points="1800,2180 2277,-222 2511,-164"/>
+  <polygon points="1800,2180 2737,-83 2954,19"/>
+  <polygon points="1800,2180 3161,142 3354,286"/>
+  <polygon points="1800,2180 3532,447 3693,625"/>
+  <polygon points="1800,2180 3837,818 3960,1025"/>
+  <polygon points="1800,2180 4063,1242 4144,1468"/>
+  <polygon points="1800,2180 4202,1702 4238,1939"/>
+</g>
+
+    <!-- Sweeping Cobalt & Emerald Orbital Rings (Running Track / Digital Soundwaves) -->
+    <circle cx="1800" cy="2180" r="1020" fill="none" stroke="hsl(220, 78%, 38%)" stroke-width="14" stroke-dasharray="120 30"/>
+    <circle cx="1800" cy="2180" r="940" fill="hsl(44, 85%, 96%)" fill-opacity="0.65" stroke="hsl(160, 84%, 26%)" stroke-width="14"/>
+
+    <!-- Traditional Stylized Vietnamese Lotus Mandala -->
+    <g fill="hsl(356, 78%, 48%)" stroke="hsl(42, 75%, 94%)" stroke-width="6">
+  <path transform="rotate(0.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(22.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(45.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(67.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(90.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(112.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(135.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(157.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(180.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(202.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(225.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(247.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(270.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(292.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(315.0 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+  <path transform="rotate(337.5 1800 2180)" d="M 1800,1720 C 1685,1494 1715,1424 1800,1320 C 1885,1424 1915,1494 1800,1720 Z"/>
+</g>
+    <g fill="hsl(38, 96%, 54%)" stroke="hsl(222, 52%, 12%)" stroke-width="6">
+  <path transform="rotate(0.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(30.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(60.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(90.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(120.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(150.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(180.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(210.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(240.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(270.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(300.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+  <path transform="rotate(330.0 1800 2180)" d="M 1800,1860 C 1685,1676 1715,1608 1800,1530 C 1885,1608 1915,1676 1800,1860 Z"/>
+</g>
+    <circle cx="1800" cy="2180" r="470" fill="hsl(358, 80%, 44%)" stroke="hsl(46, 100%, 68%)" stroke-width="14"/>
+
+    <!-- Blazing Golden Star & Torch of Aspiration at Apex (1800, 1310) -->
+    <circle cx="1800" cy="1310" r="225" fill="hsl(45, 100%, 58%)" stroke="hsl(222, 52%, 12%)" stroke-width="12"/>
+    <circle cx="1800" cy="1310" r="192" fill="none" stroke="hsl(358, 80%, 44%)" stroke-width="6"/>
+    <polygon points="1800,1145 1839,1254 1956,1259 1864,1331 1896,1443 1800,1378 1703,1443 1735,1331 1643,1259 1760,1254" fill="hsl(358, 82%, 44%)" stroke="#ffffff" stroke-width="7"/>
+
+    <!-- HEROIC SCULPTED VIETNAMESE YOUTH SILHOUETTE SOARING UPWARD -->
+    <g id="heroYouthFigure">
+      <!-- Fluttering Red Youth Victory Scarf -->
+      <path d="M 1835,1875 C 2040,1790 2265,1815 2450,1925 C 2345,1985 2135,1995 1865,1965 Z"
+            fill="hsl(358, 84%, 48%)" stroke="hsl(46, 100%, 78%)" stroke-width="7"/>
+      <!-- Dynamic Acoustic / Digital Ribbon Swirling Left -->
+      <path d="M 1745,1915 C 1510,1850 1310,1920 1165,2045 C 1295,2085 1495,2040 1735,1995 Z"
+            fill="hsl(45, 100%, 58%)" stroke="hsl(222, 52%, 12%)" stroke-width="7"/>
+
+      <!-- Head & Confident Uplifted Profile -->
+      <circle cx="1800" cy="1745" r="112" fill="hsl(222, 52%, 12%)" stroke="hsl(46, 100%, 76%)" stroke-width="9"/>
+      <!-- Right Arm Raised High Toward the Star -->
+      <path d="M 1690,1910 C 1640,1740 1630,1585 1665,1465 L 1755,1485 C 1735,1605 1745,1745 1785,1895 Z"
+            fill="hsl(222, 52%, 12%)" stroke="hsl(46, 100%, 76%)" stroke-width="8"/>
+      <!-- Left Arm Opening Wide in Freedom -->
+      <path d="M 1905,1905 C 2045,1985 2175,2085 2275,2195 L 2200,2265 C 2105,2165 1985,2075 1865,2015 Z"
+            fill="hsl(222, 52%, 12%)" stroke="hsl(46, 100%, 76%)" stroke-width="8"/>
+
+      <!-- Faceted Constructivist Tunic (Cobalt & Emerald) -->
+      <polygon points="1655,1895 1945,1895 2005,2465 1595,2465" fill="hsl(220, 80%, 38%)" stroke="hsl(46, 100%, 76%)" stroke-width="10"/>
+      <polygon points="1655,1895 1835,1895 1775,2465 1595,2465" fill="hsl(160, 84%, 26%)"/>
+      <!-- Heart-Star Emblem on Chest -->
+      <circle cx="1800" cy="2110" r="46" fill="hsl(46, 100%, 64%)"/>
+
+      <!-- Striding Legs Ascending Peak -->
+      <polygon points="1615,2455 1775,2455 1610,2985 1475,2955" fill="hsl(222, 52%, 12%)"/>
+      <polygon points="1825,2455 1985,2455 2130,2955 1995,2985" fill="hsl(222, 52%, 12%)"/>
+    </g>
+
+    <!-- 4 ILLUSTRATED CONSTRUCTIVIST MEDALLIONS (With Bespoke Vector Icons!) -->
+    <!-- Medallion 1: TRI THỨC SỐ (Top-Left: 620, 1620) -->
+    <g transform="translate(620, 1620)">
+      <circle cx="0" cy="0" r="275" fill="hsl(220, 78%, 36%)" stroke="hsl(222, 52%, 12%)" stroke-width="12"/>
+      <circle cx="0" cy="0" r="242" fill="none" stroke="hsl(46, 100%, 74%)" stroke-width="5"/>
+      <!-- Open Book + Circuit Vector Icon -->
+      <path d="M -115,-55 Q -55,-85 0,-45 Q 55,-85 115,-55 L 115,35 Q 55,5 0,45 Q -55,5 -115,35 Z" fill="#ffffff"/>
+      <circle cx="0" cy="-125" r="26" fill="hsl(46, 100%, 66%)"/>
+      <line x1="0" y1="-99" x2="0" y2="-45" stroke="hsl(46, 100%, 66%)" stroke-width="8"/>
+      <text x="0" y="122" text-anchor="middle" font-family="'Oswald', sans-serif" font-weight="700" font-size="64" fill="#ffffff">TRI THỨC</text>
+      <text x="0" y="178" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="38" fill="hsl(46, 100%, 72%)">SÁNG TẠO SỐ</text>
+    </g>
+
+    <!-- Medallion 2: THỂ THAO (Top-Right: 2980, 1620) -->
+    <g transform="translate(2980, 1620)">
+      <circle cx="0" cy="0" r="275" fill="hsl(160, 84%, 25%)" stroke="hsl(222, 52%, 12%)" stroke-width="12"/>
+      <circle cx="0" cy="0" r="242" fill="none" stroke="hsl(46, 100%, 74%)" stroke-width="5"/>
+      <!-- Heartbeat / Vitality Wave Icon -->
+      <polyline points="-135,-30 -65,-30 -35,-115 20,45 55,-65 90,-30 135,-30" fill="none" stroke="hsl(46, 100%, 68%)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="0" y="122" text-anchor="middle" font-family="'Oswald', sans-serif" font-weight="700" font-size="64" fill="#ffffff">THỂ THAO</text>
+      <text x="0" y="178" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="38" fill="hsl(46, 100%, 72%)">RÈN BẢN LĨNH</text>
+    </g>
+
+    <!-- Medallion 3: NGHỆ THUẬT (Bottom-Left: 620, 2660) -->
+    <g transform="translate(620, 2660)">
+      <circle cx="0" cy="0" r="275" fill="hsl(30, 92%, 42%)" stroke="hsl(222, 52%, 12%)" stroke-width="12"/>
+      <circle cx="0" cy="0" r="242" fill="none" stroke="#ffffff" stroke-width="5"/>
+      <!-- Musical Soundwave Bars Icon -->
+      <rect x="-105" y="-65" width="24" height="75" rx="10" fill="#ffffff"/>
+      <rect x="-58" y="-115" width="24" height="125" rx="10" fill="hsl(48, 100%, 74%)"/>
+      <rect x="-11" y="-145" width="24" height="155" rx="10" fill="#ffffff"/>
+      <rect x="36" y="-105" width="24" height="115" rx="10" fill="hsl(48, 100%, 74%)"/>
+      <rect x="83" y="-60" width="24" height="70" rx="10" fill="#ffffff"/>
+      <text x="0" y="108" text-anchor="middle" font-family="'Oswald', sans-serif" font-weight="700" font-size="64" fill="#ffffff">NGHỆ THUẬT</text>
+      <text x="0" y="166" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="38" fill="hsl(48, 100%, 82%)">NUÔI TÂM HỒN</text>
+    </g>
+
+    <!-- Medallion 4: GIA ĐÌNH & CỘNG ĐỒNG (Bottom-Right: 2980, 2660) -->
+    <g transform="translate(2980, 2660)">
+      <circle cx="0" cy="0" r="275" fill="hsl(358, 78%, 44%)" stroke="hsl(222, 52%, 12%)" stroke-width="12"/>
+      <circle cx="0" cy="0" r="242" fill="none" stroke="hsl(46, 100%, 74%)" stroke-width="5"/>
+      <!-- Blooming Lotus Icon -->
+      <path d="M 0,-145 C -45,-85 -45,-15 0,25 C 45,-15 45,-85 0,-145 Z" fill="hsl(46, 100%, 70%)"/>
+      <path d="M -5,-15 C -85,-75 -125,-25 -85,25 C -55,45 -20,35 -5,-15 Z" fill="#ffffff"/>
+      <path d="M 5,-15 C 85,-75 125,-25 85,25 C 55,45 20,35 5,-15 Z" fill="#ffffff"/>
+      <text x="0" y="108" text-anchor="middle" font-family="'Oswald', sans-serif" font-weight="700" font-size="64" fill="#ffffff">CỘNG ĐỒNG</text>
+      <text x="0" y="166" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="38" fill="hsl(46, 100%, 76%)">ĐIỂM TỰA VỮNG</text>
+    </g>
+
+    <!-- RISING EMERALD VICTORY PEAK & SHATTERED CHAINS BELOW -->
+    <polygon points="160,3600 1800,2820 3440,3600" fill="url(#peakEmerald)" stroke="hsl(222, 52%, 12%)" stroke-width="14"/>
+    <polygon points="580,3600 1800,2980 3020,3600" fill="hsl(160, 86%, 22%)" stroke="hsl(46, 100%, 66%)" stroke-width="6"/>
+
+    <!-- Broken Chains Snapping on Left & Right Slopes -->
+    <g stroke="hsl(215, 25%, 22%)" stroke-width="18" fill="none">
+      <rect x="640" y="3340" width="130" height="68" rx="34" transform="rotate(-24 705 3374)"/>
+      <rect x="815" y="3395" width="130" height="68" rx="34" transform="rotate(19 880 3429)"/>
+      <rect x="2655" y="3395" width="130" height="68" rx="34" transform="rotate(-19 2720 3429)"/>
+      <rect x="2830" y="3340" width="130" height="68" rx="34" transform="rotate(24 2895 3374)"/>
+    </g>
+    <line x1="775" y1="3315" x2="815" y2="3465" stroke="hsl(358, 86%, 54%)" stroke-width="12"/>
+    <line x1="2825" y1="3315" x2="2785" y2="3465" stroke="hsl(358, 86%, 54%)" stroke-width="12"/>
+
+    <text x="1800" y="3320" text-anchor="middle" font-family="'Oswald', 'Be Vietnam Pro', sans-serif" font-weight="700" font-size="108" letter-spacing="4" fill="hsl(46, 100%, 68%)" stroke="hsl(222, 52%, 10%)" stroke-width="10" paint-order="stroke fill">ĐẠP TAN CÁM DỖ</text>
+    <text x="1800" y="3445" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="50" letter-spacing="2" fill="#ffffff">LÀM CHỦ CUỘC ĐỜI — GIỮ TRỌN KHÁT VỌNG TUỔI XUÂN</text>
+  </g>
+
+  <!-- 3. Heritage Double Poster Frame & Lotus Corner Diamonds -->
+  <rect x="88" y="88" width="3424" height="4624" rx="18" fill="none" stroke="hsl(222, 52%, 12%)" stroke-width="16"/>
+  <rect x="132" y="132" width="3336" height="4536" rx="14" fill="none" stroke="hsl(358, 78%, 46%)" stroke-width="6"/>
+  <polygon points="132,82 182,132 132,182 82,132" fill="hsl(358, 78%, 46%)"/>
+  <polygon points="3468,82 3518,132 3468,182 3418,132" fill="hsl(358, 78%, 46%)"/>
+  <polygon points="132,4618 182,4668 132,4718 82,4668" fill="hsl(358, 78%, 46%)"/>
+  <polygon points="3468,4618 3518,4668 3468,4718 3418,4668" fill="hsl(358, 78%, 46%)"/>
+
+  <!-- 4. Top Kicker & Monumental Title (Zero Overlap — Clean Vertical Spacing Above Accents) -->
+  <rect x="440" y="160" width="2720" height="76" rx="38" fill="hsl(222, 52%, 12%)"/>
+  <text x="1800" y="211" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="38" letter-spacing="2.2" fill="hsl(46, 100%, 76%)">NHÀ VĂN HÓA THANH NIÊN TP. HỒ CHÍ MINH  •  THÔNG ĐIỆP TUỔI TRẺ 2026</text>
+
+  <g font-family="'Oswald', 'Be Vietnam Pro', sans-serif" font-weight="700">
+    <text x="1816" y="618" text-anchor="middle" font-size="268" letter-spacing="8" fill="hsl(222, 52%, 12%)">SỐNG CHẤT</text>
+    <text x="1800" y="602" text-anchor="middle" font-size="268" letter-spacing="8" fill="hsl(358, 80%, 46%)" stroke="hsl(43, 65%, 96%)" stroke-width="12" paint-order="stroke fill">SỐNG CHẤT</text>
+  </g>
+
+  <!-- Angled Constructivist Navy Ribbon -->
+  <polygon points="260,685 3350,655 3320,925 230,955" fill="hsl(222, 52%, 12%)" stroke="hsl(40, 96%, 54%)" stroke-width="8"/>
+  <text x="1800" y="868" text-anchor="middle" font-family="'Oswald', 'Be Vietnam Pro', sans-serif" font-weight="700" font-size="182" letter-spacing="6" fill="hsl(46, 100%, 68%)">KHÔNG CẦN “CHẤT”!</text>
+
+  <!-- 5. Bottom Monumental Slogan Block -->
+  <rect x="210" y="3655" width="3180" height="625" rx="28" fill="url(#emeraldBanner)" stroke="hsl(222, 52%, 12%)" stroke-width="12"/>
+  <text x="1810" y="3902" text-anchor="middle" font-family="'Oswald', 'Be Vietnam Pro', sans-serif" font-weight="700" font-size="194" letter-spacing="5" fill="hsl(222, 52%, 10%)">BẢN LĨNH LÀ CHẤT RIÊNG</text>
+  <text x="1800" y="3890" text-anchor="middle" font-family="'Oswald', 'Be Vietnam Pro', sans-serif" font-weight="700" font-size="194" letter-spacing="5" fill="hsl(46, 100%, 70%)">BẢN LĨNH LÀ CHẤT RIÊNG</text>
+
+  <text x="1800" y="4035" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="56" fill="#ffffff">CHẤT Ở TRÍ TUỆ  •  CHẤT Ở ĐAM MÊ  •  CHẤT Ở TỰ DO KHÔNG LỆ THUỘC</text>
+  <text x="1800" y="4155" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="700" font-size="48" letter-spacing="1.5" fill="hsl(152, 82%, 84%)">GIA ĐÌNH – NHÀ TRƯỜNG – XÃ HỘI ĐỒNG HÀNH ĐẨY LÙI HIỂM HỌA MA TÚY</text>
+
+  <!-- Colophon -->
+  <text x="1800" y="4415" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="800" font-size="42" letter-spacing="1.5" fill="hsl(358, 78%, 42%)">CUỘC THI THIẾT KẾ TRANH CỔ ĐỘNG TUYÊN TRUYỀN PHÒNG, CHỐNG MA TÚY NĂM 2026</text>
+  <text x="1800" y="4495" text-anchor="middle" font-family="'Be Vietnam Pro', sans-serif" font-weight="700" font-size="38" fill="hsl(222, 42%, 22%)">ĐƠN VỊ TỔ CHỨC: NHÀ VĂN HÓA THANH NIÊN TP. HỒ CHÍ MINH  •  TÁC PHẨM SÁNG TẠO GỐC</text>
+
+  <!-- Archival Dó-Paper Silkscreen Grain -->
+  <rect x="0" y="0" width="3600" height="4800" filter="url(#paperGrain02)" pointer-events="none"/>
+</svg>
